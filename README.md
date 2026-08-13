@@ -3,4 +3,4 @@ Mon site perso
 
 ## License
 
-© 2026 Loan - Tous droits réservés.
+© 2026 LoTek (Loan) - Tous droits réservés.
